@@ -5,7 +5,9 @@ Instruções da Competição:
 Bem-vindo, aventureiro! Sua missão, caso decida aceitar, é usar os poderes da Programação Orientada a Objetos (POO) para construir as fundações de um universo de RPG. Este desafio foi criado para estudantes de Ciência da Computação como você, para ser o seu primeiro passo no mundo de classes e objetos.
 
 Modalidade: Competição individual ou em duplas
+
 Objetivo: Resolver o máximo de questões no tempo disponível, construindo um mini-RPG funcional.
+
 Critério de Desempate: Maior pontuação total acumulada.
 
 # Sistema de Pontuação:
@@ -28,9 +30,13 @@ Biblioteca Padrão: Não é permitido o uso de bibliotecas externas. Utilize ape
 Consulta: A documentação oficial do Python é sua aliada. Use-a!
 
 Progresso do Desafio
+
 Marque as questões que você completar para acompanhar sua pontuação!
+
 Nível Básico (100 pontos)
+
 Nível Intermediário (150 pontos)
+
 Nível Avançado (200 pontos)
 
 # NÍVEL BÁSICO: O DESPERTAR DO HERÓI
