@@ -10,13 +10,21 @@ Critério de Desempate: Maior pontuação total acumulada.
 
 # Sistema de Pontuação:
 Nível Básico (Questões 1-10): 10 pontos cada
+
 Nível Intermediário (Questões 11-20): 15 pontos cada
+
 Nível Avançado (Questões 21-30): 20 pontos cada
+
 Pontuação Máxima Possível: 450 pontos
-Regras Importantes
+
+# Regras Importantes:
+
 Todas as soluções devem ser implementadas em Python 3.
+
 Foco em POO: A avaliação principal levará em conta a modelagem correta utilizando os conceitos de POO.
+
 Biblioteca Padrão: Não é permitido o uso de bibliotecas externas. Utilize apenas as funcionalidades padrão do Python.
+
 Consulta: A documentação oficial do Python é sua aliada. Use-a!
 
 Progresso do Desafio
